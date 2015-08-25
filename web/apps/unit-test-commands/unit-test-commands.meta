@@ -3,8 +3,9 @@
         "unit-test-commands.js", 
         "unit-test-commands.meta"
     ], 
-    "version": "1.0.0", 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/unit-test-commands/unit-test-commands.meta", 
     "name": "unit-test-commands", 
-    "author-email": "ajaykc@juniper.net", 
-    "author": "Ajay Kumar Chintala"
+    "author": "Ajay Kumar Chintala", 
+    "version": "1.0.0", 
+    "author-email": "ajaykc@juniper.net"
 }
