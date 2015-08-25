@@ -244,7 +244,7 @@ Clira.appManager = {
                     return;
                 }
                 var data = appManager.getFormData(that);
-                data.src = that.$("#selectAppSrc").val();
+                data.src = appManager.view.$('#selectAppSrc').val();
                 appManager.installApp(data, function (res) {
                     if (res.error) {
                         appManager.setError(res.error);
