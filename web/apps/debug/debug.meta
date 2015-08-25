@@ -3,6 +3,9 @@
         "debug.js", 
         "debug.meta"
     ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/debug/debug.meta", 
+    "name": "debug", 
+    "author": "Phil Shafer", 
     "version": "1.0.0", 
-    "name": "debug"
+    "author-email": "phil@juniper.net"
 }

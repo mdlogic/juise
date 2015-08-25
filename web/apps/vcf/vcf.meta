@@ -5,6 +5,9 @@
         "vcf.meta", 
         "vcf.slax"
     ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/vcf/vcf.meta", 
+    "name": "vcf", 
+    "author": "Ajay Kumar Chintala", 
     "version": "1.0.0", 
-    "name": "vcf"
+    "author-email": "ajaykc@juniper.net"
 }

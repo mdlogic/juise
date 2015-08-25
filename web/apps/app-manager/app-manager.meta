@@ -1,5 +1,4 @@
 {
-    "author": "Marvin Dsouza", 
     "files": [
         "app-manager.hbs", 
         "app-manager.js", 
@@ -8,7 +7,10 @@
         "py/app-install.py", 
         "py/list-dirs.py"
     ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/app-manager/app-manager.meta", 
+    "description": "An app to install and update CLIRA apps from various sources like Github, Web server, etc.", 
+    "author": "Marvin Dsouza", 
     "version": "1.0.0", 
-    "name": "app-manager", 
-    "author-email": "mdsouza@juniper.net"
+    "author-email": "mdsouza@juniper.net", 
+    "name": "app-manager"
 }

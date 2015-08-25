@@ -5,6 +5,8 @@
         "location.meta"
     ], 
     "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/location/location.meta", 
+    "name": "location", 
+    "author": "Ajay Kumar Chintala", 
     "version": "1.0.0", 
-    "name": "location"
+    "author-email": "ajaykc@juniper.net"
 }

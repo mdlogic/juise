@@ -1,12 +1,13 @@
 {
-    "author": "Robert Johnston", 
     "files": [
         "configuration.hbs", 
         "configuration.js", 
         "configuration.slax", 
         "configuration.meta"
     ], 
-    "version": "1.0.0", 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/configuration/configuration.meta", 
     "name": "configuration", 
+    "author": "Robert Johnston", 
+    "version": "1.0.0", 
     "author-email": "rjhonst@juniper.net"
 }

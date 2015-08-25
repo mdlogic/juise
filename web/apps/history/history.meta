@@ -4,7 +4,9 @@
         "history.js", 
         "history.meta"
     ], 
-    "version": "1.0.0", 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/history/history.meta", 
     "name": "history", 
-    "author": "Ajay Kumar Chintala"
+    "author": "Ajay Kumar Chintala", 
+    "version": "1.0.0", 
+    "author-email": "ajaykc@juniper.net"
 }

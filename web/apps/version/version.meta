@@ -4,8 +4,9 @@
         "version.slax", 
         "version.meta"
     ], 
-    "version": "1.0.0", 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/version/version.meta", 
     "name": "version", 
-    "author-email": "ajaykc@juniper.net", 
-    "author": "Ajay Kumar Chintala"
+    "author": "Ajay Kumar Chintala", 
+    "version": "1.0.0", 
+    "author-email": "ajaykc@juniper.net"
 }

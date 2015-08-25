@@ -5,6 +5,8 @@
         "welcome.meta"
     ], 
     "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/welcome/welcome.meta", 
+    "name": "welcome", 
+    "author": "Ajay Kumar Chintala", 
     "version": "1.0.0", 
-    "name": "welcome"
+    "author-email": "ajaykc@juniper.net"
 }

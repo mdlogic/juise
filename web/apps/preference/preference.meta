@@ -3,6 +3,9 @@
         "preference.js", 
         "preference.meta"
     ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/preference/preference.meta", 
+    "name": "preference", 
+    "author": "Ajay Kumar Chintala", 
     "version": "1.0.0", 
-    "name": "preference"
+    "author-email": "ajaykc@juniper.net"
 }

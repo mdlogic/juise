@@ -1,13 +1,13 @@
 {
-    "author": "Phil Shafer", 
     "files": [
         "ospf.xml", 
         "topology.js", 
-        "topology.slax", 
-        "topology.meta (Will be created)", 
-        "topology.meta"
+        "topology.meta", 
+        "topology.slax"
     ], 
-    "version": "1.0.0", 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/topology/topology.meta", 
     "name": "topology", 
+    "author": "Phil Shafer", 
+    "version": "1.0.0", 
     "author-email": "phil@juniper.net"
 }

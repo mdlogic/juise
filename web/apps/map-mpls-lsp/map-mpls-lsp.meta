@@ -11,7 +11,8 @@
         "vis/vis.min.js"
     ], 
     "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/map-mpls-lsp/map-mpls-lsp.meta", 
-    "version": "1.0.0", 
     "name": "map-mpls-lsp", 
+    "author": "Mihir Asthana", 
+    "version": "1.0.0", 
     "author-email": "masthana@juniper.net"
 }

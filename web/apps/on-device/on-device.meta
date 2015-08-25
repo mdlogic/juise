@@ -3,6 +3,9 @@
         "on-device.js", 
         "on-device.meta"
     ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/on-device/on-device.meta", 
+    "name": "on-device", 
+    "author": "Phil Shafer, Rob Johnston, Ajay Kumar Chintala", 
     "version": "1.0.0", 
-    "name": "on-device"
+    "author-email": "phil@juniper.net, rjohnst@juniper.net, ajaykc@juniper.net"
 }
