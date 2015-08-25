@@ -1,0 +1,11 @@
+{
+    "files": [
+        "version.js", 
+        "version.slax", 
+        "version.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "version", 
+    "author-email": "ajaykc@juniper.net", 
+    "author": "Ajay Kumar Chintala"
+}

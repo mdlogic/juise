@@ -1,0 +1,12 @@
+{
+    "files": [
+        "tunnel.js", 
+        "tunnel.meta", 
+        "tunnel.slax"
+    ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/tunnel/tunnel.meta", 
+    "name": "tunnel", 
+    "author": "Ajay Kumar Chintala", 
+    "version": "1.0.0", 
+    "author-email": "ajaykc@juniper.net"
+}

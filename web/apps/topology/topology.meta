@@ -1,0 +1,13 @@
+{
+    "author": "Phil Shafer", 
+    "files": [
+        "ospf.xml", 
+        "topology.js", 
+        "topology.slax", 
+        "topology.meta (Will be created)", 
+        "topology.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "topology", 
+    "author-email": "phil@juniper.net"
+}

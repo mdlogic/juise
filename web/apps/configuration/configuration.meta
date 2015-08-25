@@ -1,0 +1,12 @@
+{
+    "author": "Robert Johnston", 
+    "files": [
+        "configuration.hbs", 
+        "configuration.js", 
+        "configuration.slax", 
+        "configuration.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "configuration", 
+    "author-email": "rjhonst@juniper.net"
+}

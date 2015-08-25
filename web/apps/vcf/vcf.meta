@@ -1,0 +1,10 @@
+{
+    "files": [
+        "vcf-stats.slax", 
+        "vcf.js", 
+        "vcf.meta", 
+        "vcf.slax"
+    ], 
+    "version": "1.0.0", 
+    "name": "vcf"
+}

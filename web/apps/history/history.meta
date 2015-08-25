@@ -1,0 +1,10 @@
+{
+    "files": [
+        "history.hbs", 
+        "history.js", 
+        "history.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "history", 
+    "author": "Ajay Kumar Chintala"
+}

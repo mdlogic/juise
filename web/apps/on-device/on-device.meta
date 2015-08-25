@@ -1,0 +1,8 @@
+{
+    "files": [
+        "on-device.js", 
+        "on-device.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "on-device"
+}

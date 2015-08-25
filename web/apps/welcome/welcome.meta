@@ -1,0 +1,10 @@
+{
+    "files": [
+        "welcome.hbs", 
+        "welcome.js", 
+        "welcome.meta"
+    ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/welcome/welcome.meta", 
+    "version": "1.0.0", 
+    "name": "welcome"
+}

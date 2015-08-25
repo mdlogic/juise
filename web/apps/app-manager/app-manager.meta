@@ -1,0 +1,14 @@
+{
+    "author": "Marvin Dsouza", 
+    "files": [
+        "app-manager.hbs", 
+        "app-manager.js", 
+        "app-manager.meta", 
+        "images/ajaxLoader.gif", 
+        "py/app-install.py", 
+        "py/list-dirs.py"
+    ], 
+    "version": "1.0.0", 
+    "name": "app-manager", 
+    "author-email": "mdsouza@juniper.net"
+}

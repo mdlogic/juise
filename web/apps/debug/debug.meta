@@ -1,0 +1,8 @@
+{
+    "files": [
+        "debug.js", 
+        "debug.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "debug"
+}

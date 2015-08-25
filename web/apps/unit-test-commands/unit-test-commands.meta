@@ -1,0 +1,10 @@
+{
+    "files": [
+        "unit-test-commands.js", 
+        "unit-test-commands.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "unit-test-commands", 
+    "author-email": "ajaykc@juniper.net", 
+    "author": "Ajay Kumar Chintala"
+}

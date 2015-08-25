@@ -1,0 +1,17 @@
+{
+    "files": [
+        "map-mpls-lsp.hbs", 
+        "map-mpls-lsp.js", 
+        "map-mpls-lsp.meta", 
+        "map-mpls-lsp.slax", 
+        "README.md", 
+        "images/myrouter.png", 
+        "images/router.png", 
+        "vis/vis.css", 
+        "vis/vis.min.js"
+    ], 
+    "app-meta-url": "https://github.com/mdlogic/juise/blob/develop/web/apps/map-mpls-lsp/map-mpls-lsp.meta", 
+    "version": "1.0.0", 
+    "name": "map-mpls-lsp", 
+    "author-email": "masthana@juniper.net"
+}

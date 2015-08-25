@@ -1,0 +1,8 @@
+{
+    "files": [
+        "preference.js", 
+        "preference.meta"
+    ], 
+    "version": "1.0.0", 
+    "name": "preference"
+}
