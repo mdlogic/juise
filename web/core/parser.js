@@ -210,9 +210,13 @@ jQuery(function ($) {
                 promises = [];
             // Load (or reload) the set of command files, which we
             // get from our web server.
-            $.ajax("/core/list-command-files.slax")
+            $.ajax("/core/list-command-files.py")
                 .success(function loadCommandFilesDone (data, status, jqxhr) {
 
+                    if (data.error) {
+                         $.dbgpr("load command files: " + data.error);
+                         return;
+                    }
                     if (data.files == undefined || data.files.length == 0) {
                         $.dbgpr("load command files: list is empty, ignored");
                         return;
@@ -264,6 +268,7 @@ jQuery(function ($) {
                 .fail(function loadCommandFilesFail (jqxhr, settings,
                                                      exception) {
                     $.dbgpr("load command files failed");
+                    console.error(exception);
                     deferred.reject();
                 });
             return deferred.promise();
