@@ -19,7 +19,7 @@ fileList = []
 try :
     for d in os.listdir(appDir):
         meta = appDir + "/" + d + "/" + d + ".meta"
-        js = appDir + "/" + d + "/" + d + ".js"
+        js =  appDir + "/" + d + "/" + d + ".js"
         if os.path.isfile(meta) and os.path.isfile(js) :
             with open(meta) as fh :
                 content = json.load(fh)
@@ -27,6 +27,7 @@ try :
                         and not admin):
                     fh.close()
                     continue
+                js = js.replace("..", "");
                 fileList.append(js)
                 fh.close()
     res = {}
